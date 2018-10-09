@@ -1,0 +1,1 @@
+This was my first mobile game created using unity for fun before I had even taken any courses on mobile development or game development. Lots of architectural and design improvements could be done but I was proud of this when I first made it

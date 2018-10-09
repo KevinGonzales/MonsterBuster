@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d146ceb347316429ebe11e2fb4a4b800
+timeCreated: 1444416738
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HighScoreImage: {instanceID: 0}
+  - NewScoreStarsImage: {fileID: 195926, guid: d51e6a6b6acf44faaabe29d678626f72, type: 2}
+  - BestScore: {instanceID: 0}
+  - RecentScore: {instanceID: 0}
+  - ReplayButton: {instanceID: 0}
+  - RateButton: {instanceID: 0}
+  - CharacterSelectAfterYoulost: {instanceID: 0}
+  - HowMuchMoneyYouGot: {instanceID: 0}
+  - player: {instanceID: 0}
+  - Score: {instanceID: 0}
+  - Money: {instanceID: 0}
+  - coinImage: {instanceID: 0}
+  - ShootButtonsOnLeft: {instanceID: 0}
+  - ShootButtonOnRight: {instanceID: 0}
+  - GoTOCharacterSelect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
